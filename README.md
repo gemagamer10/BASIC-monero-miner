@@ -42,7 +42,7 @@ minerar/
  ├── xmrig
  └── dependencia/
  
-📜 License Notice  
+## 📜 License Notice  
 This project uses the external miner XMRig, which is licensed under GPLv3.  
 The XMRig binary is not included in this repository to respect the license terms.
 
@@ -51,14 +51,14 @@ Users must download XMRig from the official source.
 
 The author is not responsible for unauthorized or unethical use of mining software.
 
-🧩 Notes  
+## 🧩 Notes  
 XMRig must be placed in the same directory as `acho.py` unless you modify the path in the code.
 
 This project is only a graphical interface; all mining operations are performed by XMRig.
 
 Works on Linux systems.
 
-💬 Contributions  
+## 💬 Contributions  
 Pull requests, improvements, and suggestions are welcome.
 
 ---
