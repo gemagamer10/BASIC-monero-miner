@@ -1,0 +1,177 @@
+================================================================================
+                    SETUP - MONERO AUTO-MINER
+================================================================================
+
+REQUISITOS:
+- Python 3.8 ou superior (https://www.python.org/)
+- Acesso à internet para descarregar dependências
+
+================================================================================
+INSTALAÇÃO AUTOMÁTICA (Recomendado)
+================================================================================
+
+WINDOWS:
+-------
+1. Duplo-clique em "install_dependencies.bat"
+2. Aguarde até que termine
+3. A janela fecha automaticamente
+
+LINUX/MAC:
+---------
+1. Abra terminal nesta pasta
+2. Executa: chmod +x install_dependencies.sh
+3. Executa: ./install_dependencies.sh
+
+================================================================================
+INSTALAÇÃO MANUAL (Se automática não funcionar)
+================================================================================
+
+WINDOWS (Command Prompt ou PowerShell):
+-------
+pip install requests psutil ttkbootstrap
+
+LINUX/MAC (Terminal):
+--------------------
+pip3 install requests psutil ttkbootstrap
+
+ou
+
+python3 -m pip install requests psutil ttkbootstrap
+
+================================================================================
+DESCARREGAR XMRIG (OBRIGATÓRIO!)
+================================================================================
+
+1. Vai para: https://github.com/xmrig/xmrig/releases
+
+2. Descarrega a versão correta para teu sistema:
+
+   WINDOWS 64-bit:
+   -> xmrig-6.25.0-windows-x64.zip (RECOMENDADO)
+   -> ou xmrig-6.25.0-windows-gcc-x64.zip
+
+   LINUX 64-bit:
+   -> xmrig-6.25.0-linux-static-x64.tar.gz (RECOMENDADO - funciona em qualquer Linux)
+   -> ou a específica para tua distro (focal, jammy, noble, etc)
+
+   MAC:
+   -> xmrig-6.25.0-macos-x64.tar.gz (Intel)
+   -> ou xmrig-6.25.0-macos-arm64.tar.gz (Apple Silicon M1/M2)
+
+3. Extrai o ficheiro nesta pasta
+
+4. Verifica que o executável se chama:
+   - Windows: xmrig.exe
+   - Linux/Mac: xmrig
+
+================================================================================
+EXECUTAR O PROGRAMA
+================================================================================
+
+WINDOWS:
+-------
+Duplo-clique em "acho.py"
+ou no Command Prompt/PowerShell:
+python acho.py
+
+LINUX/MAC:
+---------
+Terminal:
+python3 acho.py
+
+ou se tiver permissões de execução:
+./acho.py
+
+================================================================================
+CONFIGURAÇÃO INICIAL
+================================================================================
+
+1. Ao iniciar, lê e aceita os Termos de Uso (clica "Accept")
+2. Na aba "Control", insere tua carteira Monero
+3. Prima ENTER para iniciar a mineração
+4. Verifica o progresso na aba "Logs"
+
+================================================================================
+CRIAR UMA CARTEIRA MONERO
+================================================================================
+
+Se não tens uma carteira Monero:
+
+1. Vai para: https://www.getmonero.org/
+2. Descarrega um cliente oficial (GUI ou CLI)
+3. Cria uma nova carteira
+4. Copia o endereço público da carteira
+5. Usa esse endereço no programa
+
+Exemplo de endereço Monero:
+48JkMzAJ1cqLkdfQpGmBAK4jFpGHsYwwJ8HnEzcZZj6XYQX9VfQWFAKaU5fSVZJjkVgMFFJMoV2fcsABpKoNmz9vQ7gAVvG
+
+================================================================================
+TROUBLESHOOTING / SOLUÇÃO DE PROBLEMAS
+================================================================================
+
+PROBLEMA: "xmrig não foi encontrado"
+SOLUÇÃO:
+- Verifica se descarregaste corretamente
+- Verifica se o ficheiro se chama "xmrig" ou "xmrig.exe"
+- Se a pasta se chama "xmrig-6.25.0", move o executável para cá
+
+PROBLEMA: "ModuleNotFoundError: No module named 'ttkbootstrap'"
+SOLUÇÃO:
+- Executa o script install_dependencies.bat (Windows)
+- Ou ./install_dependencies.sh (Linux)
+- Ou manualmente: pip install ttkbootstrap
+
+PROBLEMA: "O minerador não começa"
+SOLUÇÃO:
+- Verifica se a carteira está correta
+- Verifica a conexão à internet
+- Consulta o ficheiro "miner_gui.log" para erros
+
+PROBLEMA: "Python não reconhecido"
+SOLUÇÃO (Windows):
+- Instala Python desde https://www.python.org/ (marca "Add Python to PATH")
+- Reinicia o computador
+
+SOLUÇÃO (Linux):
+- Instala Python: sudo apt-get install python3 python3-pip
+- Usa python3 em vez de python
+
+================================================================================
+FICHEIROS INCLUÍDOS
+================================================================================
+
+acho.py
+    -> Script principal da aplicação
+
+install_dependencies.bat
+    -> Instala dependências automaticamente (Windows)
+
+install_dependencies.sh
+    -> Instala dependências automaticamente (Linux/Mac)
+
+dependencia.txt
+    -> Lista de dependências em texto
+
+SETUP.txt
+    -> Este ficheiro
+
+================================================================================
+INFORMAÇÕES ADICIONAIS
+================================================================================
+
+- A mineração usa 1 thread da CPU por padrão
+- Podes aumentar --threads no código se tiveres mais cores disponíveis
+- Os ganhos aparecem na conta da pool após validação
+- Verifica https://supportxmr.com/ para estatísticas da mineração
+
+================================================================================
+AVISO LEGAL
+================================================================================
+
+- Mineração consome MUITA eletricidade
+- Usa isto apenas em computadores que possuis
+- Todos os ganhos são teus (o programa não retém nada)
+- Monitoriza o consumo de energia para não gerar prejuízos
+
+================================================================================

@@ -1,0 +1,8 @@
+
+Biblioteca	Para quê serve
+requests	Consultar APIs dos pools
+psutil	Ler CPU e RAM em tempo real
+ttkbootstrap	Interface moderna (tema darkly, botões, etc.)
+matplotlib	Gráfico de ganhos
+tkinter	Interface gráfica (já vem com Python oficial)
+baixar xmrig

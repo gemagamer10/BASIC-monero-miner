@@ -1,0 +1,131 @@
+[2026-02-05 00:29:35] Mining started.
+[2026-02-05 00:29:35] MINER: [1;32m * [0m[1;37mABOUT        [0m[1;36mXMRig/6.25.0[0m[1;37m gcc/13.2.1[0m[1;37m (built for Linux[0m[1;37m x86-64,[0m[1;37m 64 bit)[0m[0m
+[2026-02-05 00:29:35] MINER: [1;32m * [0m[1;37mLIBS         libuv/1.51.0 OpenSSL/3.0.16 hwloc/2.12.1[0m[0m
+[2026-02-05 00:29:35] MINER: [1;32m * [0m[1;37mHUGE PAGES   [0m[1;32msupported[0m[0m
+[2026-02-05 00:29:35] MINER: [1;32m * [0m[1;37m1GB PAGES    [0m[1;33munavailable[0m[0m
+[2026-02-05 00:29:35] MINER: [1;32m * [0m[1;37mCPU          Intel(R) Core(TM) i3-3217U CPU @ 1.80GHz (1)[0m [1;32m64-bit[0m [1;31m-AES[0m
+[2026-02-05 00:29:35] MINER: [1;37m                [0m[1;30mL2:[0m[1;37m0.5 MB[0m[1;30m L3:[0m[1;37m3.0 MB[0m[1;36m 2[0mC[1;30m/[0m[1;36m4[0mT[1;30m NUMA:[0m[1;36m1[0m[0m
+[2026-02-05 00:29:35] MINER: [1;32m * [0m[1;37mMEMORY       [0m[1;36m2.9/3.7[0m[0;36m GB[0m[1;30m (78%)[0m[0m
+[2026-02-05 00:29:35] MINER: [1;32m * [0m[1;37mDONATE       [0m[1;37m1%[0m[0m
+[2026-02-05 00:29:35] MINER: [1;32m * [0m[1;37mASSEMBLY     auto:[1;31mnone[0m[0m[0m
+[2026-02-05 00:29:35] MINER: [1;32m * [0m[1;37mPOOL #1      [0m[1;36mstratum+tcp://pool.supportxmr.com:3333[0m algo [1;37mauto[0m[0m
+[2026-02-05 00:29:35] MINER: [1;32m * [0m[1;37mCOMMANDS     [0m[45;1mh[0m[1;37mashrate, [0m[45;1mp[0m[1;37mause, [0m[45;1mr[0m[1;37mesume, [0m[1;37mre[0m[45m[1;37ms[0m[1;37mults, [0m[45;1mc[0m[1;37monnection[0m[0m
+[2026-02-05 00:29:36] MINER: [2026-02-05 00:29:36[1;30m.044[0m] [44;1m[1;37m net     [0m [1;37muse pool [0m[1;36mpool.supportxmr.com:3333 [0m[1;32m[0m [1;30m141.94.96.71[0m[0m
+[2026-02-05 00:29:36] MINER: [2026-02-05 00:29:36[1;30m.044[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (13 tx)[0m
+[2026-02-05 00:29:36] MINER: [2026-02-05 00:29:36[1;30m.044[0m] [46;1m[1;37m cpu     [0m use [1;37margon2[0m implementation [1;32mSSSE3[0m
+[2026-02-05 00:29:37] MINER: [2026-02-05 00:29:37[1;30m.245[0m] [44m[1;37m randomx [0m [1;35minit dataset[0m algo [1;37mrx/0 ([0m[1;36m4[0m[1;37m threads)[0m[1;30m seed dc982e9276e6ea57...[0m[0m
+[2026-02-05 00:29:37] MINER: [2026-02-05 00:29:37[1;30m.246[0m] [44m[1;37m randomx [0m [1;32mallocated[0m[1;36m 2336 MB[0m[1;30m (2080+256)[0m huge pages [1;31m0% 0/1168[0m [1;32m+JIT[1;30m (0 ms)[0m[0m
+[2026-02-05 00:29:41] MINER: [2026-02-05 00:29:41[1;30m.908[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (14 tx)[0m
+[2026-02-05 00:29:52] MINER: [2026-02-05 00:29:52[1;30m.243[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (17 tx)[0m
+[2026-02-05 00:30:17] MINER: [2026-02-05 00:29:59[1;30m.902[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m99266[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (17 tx)[0m
+[2026-02-05 00:30:37] MINER: [2026-02-05 00:30:02[1;30m.259[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m99266[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (19 tx)[0m
+[2026-02-05 00:30:37] MINER: [2026-02-05 00:30:12[1;30m.626[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m99266[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (22 tx)[0m
+[2026-02-05 00:30:40] MINER: [2026-02-05 00:30:21[1;30m.976[0m] [44m[1;37m randomx [0m [1;32mdataset ready[0m[1;30m (44730 ms)[0m[0m
+[2026-02-05 00:30:40] MINER: [2026-02-05 00:30:22[1;30m.807[0m] [46;1m[1;37m cpu     [0m use profile [44m[1;37m * [0m[1;37m ([1;36m1[0m[1;37m thread)[0m scratchpad [1;36m2048 KB[0m[0m
+[2026-02-05 00:31:06] MINER: [2026-02-05 00:30:22[1;30m.824[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m99266[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (24 tx)[0m
+[2026-02-05 00:31:06] MINER: [2026-02-05 00:30:23[1;30m.113[0m] [46;1m[1;37m cpu     [0m[1;32m READY[0m threads [1;36m1/1 (1)[0m huge pages [1;31m0% 0/1[0m memory [1;36m2048 KB[0m[1;30m (300 ms)[0m[0m
+[2026-02-05 00:31:06] MINER: [2026-02-05 00:30:33[1;30m.246[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m99266[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (28 tx)[0m
+[2026-02-05 00:31:06] MINER: [2026-02-05 00:30:43[1;30m.032[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m99266[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (32 tx)[0m
+[2026-02-05 00:31:06] MINER: [2026-02-05 00:30:53[1;30m.320[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m99266[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (33 tx)[0m
+[2026-02-05 00:31:06] MINER: [2026-02-05 00:30:59[1;30m.351[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (33 tx)[0m
+[2026-02-05 00:31:06] MINER: [2026-02-05 00:31:03[1;30m.534[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (34 tx)[0m
+[2026-02-05 00:31:13] MINER: [2026-02-05 00:31:13[1;30m.380[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (37 tx)[0m
+[2026-02-05 00:31:23] MINER: [2026-02-05 00:31:23[1;30m.106[0m] [45;1m[1;37m miner   [0m [1;37mspeed[0m 10s/60s/15m [1;36mn/a[0m[0;36m n/a n/a [0m[1;36mH/s[0m max [1;36mn/a H/s[0m[0m
+[2026-02-05 00:31:23] MINER: [2026-02-05 00:31:23[1;30m.592[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (38 tx)[0m
+[2026-02-05 00:31:33] MINER: [2026-02-05 00:31:33[1;30m.707[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (43 tx)[0m
+[2026-02-05 00:31:43] MINER: [2026-02-05 00:31:43[1;30m.753[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (46 tx)[0m
+[2026-02-05 00:31:53] MINER: [2026-02-05 00:31:53[1;30m.801[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (55 tx)[0m
+[2026-02-05 00:32:03] MINER: [2026-02-05 00:32:03[1;30m.915[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (64 tx)[0m
+[2026-02-05 00:32:07] MINER: [2026-02-05 00:32:07[1;30m.758[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (65 tx)[0m
+[2026-02-05 00:32:14] MINER: [2026-02-05 00:32:14[1;30m.119[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (66 tx)[0m
+[2026-02-05 00:32:17] MINER: [2026-02-05 00:32:17[1;30m.226[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (67 tx)[0m
+[2026-02-05 00:32:23] MINER: [2026-02-05 00:32:23[1;30m.145[0m] [45;1m[1;37m miner   [0m [1;37mspeed[0m 10s/60s/15m [1;36m0.00[0m[0;36m 0.00 n/a [0m[1;36mH/s[0m max [1;36mn/a H/s[0m[0m
+[2026-02-05 00:32:24] MINER: [2026-02-05 00:32:24[1;30m.879[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (68 tx)[0m
+[2026-02-05 00:32:34] MINER: [2026-02-05 00:32:34[1;30m.972[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (70 tx)[0m
+[2026-02-05 00:32:45] MINER: [2026-02-05 00:32:45[1;30m.121[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (71 tx)[0m
+[2026-02-05 00:32:55] MINER: [2026-02-05 00:32:55[1;30m.280[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (73 tx)[0m
+[2026-02-05 00:33:05] MINER: [2026-02-05 00:33:05[1;30m.488[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (74 tx)[0m
+[2026-02-05 00:33:15] MINER: [2026-02-05 00:33:15[1;30m.536[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (77 tx)[0m
+[2026-02-05 00:33:23] MINER: [2026-02-05 00:33:23[1;30m.180[0m] [45;1m[1;37m miner   [0m [1;37mspeed[0m 10s/60s/15m [1;36m0.00[0m[0;36m 0.00 n/a [0m[1;36mH/s[0m max [1;36mn/a H/s[0m[0m
+[2026-02-05 00:33:29] MINER: [2026-02-05 00:33:29[1;30m.902[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (78 tx)[0m
+[2026-02-05 00:33:40] MINER: [2026-02-05 00:33:40[1;30m.076[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (79 tx)[0m
+[2026-02-05 00:33:50] MINER: [2026-02-05 00:33:50[1;30m.109[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (82 tx)[0m
+[2026-02-05 00:34:05] MINER: [2026-02-05 00:34:05[1;30m.314[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (83 tx)[0m
+[2026-02-05 00:34:15] MINER: [2026-02-05 00:34:15[1;30m.300[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (84 tx)[0m
+[2026-02-05 00:34:23] MINER: [2026-02-05 00:34:23[1;30m.209[0m] [45;1m[1;37m miner   [0m [1;37mspeed[0m 10s/60s/15m [1;36m0.00[0m[0;36m 0.02 n/a [0m[1;36mH/s[0m max [1;36m0.11 H/s[0m[0m
+[2026-02-05 00:34:25] MINER: [2026-02-05 00:34:25[1;30m.592[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (85 tx)[0m
+[2026-02-05 00:34:31] MINER: [2026-02-05 00:34:31[1;30m.757[0m] [1;37m[1;33mno results yet[0m
+[2026-02-05 00:34:31] MINER: [2026-02-05 00:34:31[1;30m.757[0m] [1;37m[1;33mno results yet[0m
+[2026-02-05 00:34:31] MINER: [1;35m - CONNECTION[0m
+[2026-02-05 00:34:31] MINER: [1;32m * [0m[1;37mpool address     [0m[1;36mpool.supportxmr.com:3333 [0m[1;30m(141.94.96.71) [0m[1;32m[0m[0m
+[2026-02-05 00:34:31] MINER: [1;32m * [0m[1;37malgorithm        [0m[1;37mrx/0[0m[0m
+[2026-02-05 00:34:31] MINER: [1;32m * [0m[1;37mdifficulty       [0m[1;36m75000[0m[0m
+[2026-02-05 00:34:31] MINER: [1;32m * [0m[1;37mconnection time  [0m[1;36m295s[0m[0m
+[2026-02-05 00:34:31] MINER: [1;35m - CONNECTION[0m
+[2026-02-05 00:34:31] MINER: [1;32m * [0m[1;37mpool address     [0m[1;36mpool.supportxmr.com:3333 [0m[1;30m(141.94.96.71) [0m[1;32m[0m[0m
+[2026-02-05 00:34:31] MINER: [1;32m * [0m[1;37malgorithm        [0m[1;37mrx/0[0m[0m
+[2026-02-05 00:34:31] MINER: [1;32m * [0m[1;37mdifficulty       [0m[1;36m75000[0m[0m
+[2026-02-05 00:34:31] MINER: [1;32m * [0m[1;37mconnection time  [0m[1;36m295s[0m[0m
+[2026-02-05 00:34:31] MINER: [2026-02-05 00:34:31[1;30m.772[0m] [45;1m[1;37m miner   [0m [1;33mpaused[0m, press [45;1m r [0m to resume[0m
+[2026-02-05 00:34:31] MINER: [2026-02-05 00:34:31[1;30m.772[0m] [45;1m[1;37m miner   [0m [1;32mresumed[0m[0m
+[2026-02-05 00:34:31] MINER: [1;37m|    CPU # | AFFINITY | 10s H/s | 60s H/s | 15m H/s |[0m
+[2026-02-05 00:34:34] MINER: |        0 |       -1 |    0.00 |    0.02 |     n/a |[0m
+[2026-02-05 00:34:34] MINER: [1;37m|        - |        - |    0.00 |    0.02 |     n/a |[0m
+[2026-02-05 00:34:34] MINER: [2026-02-05 00:34:31[1;30m.772[0m] [45;1m[1;37m miner   [0m [1;37mspeed[0m 10s/60s/15m [1;36m0.00[0m[0;36m 0.02 n/a [0m[1;36mH/s[0m max [1;36m0.11 H/s[0m[0m
+[2026-02-05 00:34:34] MINER: [2026-02-05 00:34:31[1;30m.772[0m] [1;37m[1;33mno results yet[0m
+[2026-02-05 00:34:34] MINER: [1;37m|    CPU # | AFFINITY | 10s H/s | 60s H/s | 15m H/s |[0m
+[2026-02-05 00:34:34] MINER: |        0 |       -1 |    0.00 |    0.02 |     n/a |[0m
+[2026-02-05 00:34:34] MINER: [1;37m|        - |        - |    0.00 |    0.02 |     n/a |[0m
+[2026-02-05 00:34:34] MINER: [2026-02-05 00:34:31[1;30m.773[0m] [45;1m[1;37m miner   [0m [1;37mspeed[0m 10s/60s/15m [1;36m0.00[0m[0;36m 0.02 n/a [0m[1;36mH/s[0m max [1;36m0.11 H/s[0m[0m
+[2026-02-05 00:34:34] MINER: [1;37m|    CPU # | AFFINITY | 10s H/s | 60s H/s | 15m H/s |[0m
+[2026-02-05 00:34:34] MINER: |        0 |       -1 |    0.00 |    0.02 |     n/a |[0m
+[2026-02-05 00:34:34] MINER: [1;37m|        - |        - |    0.00 |    0.02 |     n/a |[0m
+[2026-02-05 00:34:34] MINER: [2026-02-05 00:34:31[1;30m.773[0m] [45;1m[1;37m miner   [0m [1;37mspeed[0m 10s/60s/15m [1;36m0.00[0m[0;36m 0.02 n/a [0m[1;36mH/s[0m max [1;36m0.11 H/s[0m[0m
+[2026-02-05 00:34:34] MINER: [1;35m - CONNECTION[0m
+[2026-02-05 00:34:34] MINER: [1;32m * [0m[1;37mpool address     [0m[1;36mpool.supportxmr.com:3333 [0m[1;30m(141.94.96.71) [0m[1;32m[0m[0m
+[2026-02-05 00:34:34] MINER: [1;32m * [0m[1;37malgorithm        [0m[1;37mrx/0[0m[0m
+[2026-02-05 00:34:34] MINER: [1;32m * [0m[1;37mdifficulty       [0m[1;36m75000[0m[0m
+[2026-02-05 00:34:34] MINER: [1;32m * [0m[1;37mconnection time  [0m[1;36m295s[0m[0m
+[2026-02-05 00:34:34] MINER: [1;37m|    CPU # | AFFINITY | 10s H/s | 60s H/s | 15m H/s |[0m
+[2026-02-05 00:34:34] MINER: |        0 |       -1 |    0.00 |    0.02 |     n/a |[0m
+[2026-02-05 00:34:34] MINER: [1;37m|        - |        - |    0.00 |    0.02 |     n/a |[0m
+[2026-02-05 00:34:34] MINER: [2026-02-05 00:34:31[1;30m.773[0m] [45;1m[1;37m miner   [0m [1;37mspeed[0m 10s/60s/15m [1;36m0.00[0m[0;36m 0.02 n/a [0m[1;36mH/s[0m max [1;36m0.11 H/s[0m[0m
+[2026-02-05 00:34:34] MINER: [1;35m - CONNECTION[0m
+[2026-02-05 00:34:34] MINER: [1;32m * [0m[1;37mpool address     [0m[1;36mpool.supportxmr.com:3333 [0m[1;30m(141.94.96.71) [0m[1;32m[0m[0m
+[2026-02-05 00:34:34] MINER: [1;32m * [0m[1;37malgorithm        [0m[1;37mrx/0[0m[0m
+[2026-02-05 00:34:34] MINER: [1;32m * [0m[1;37mdifficulty       [0m[1;36m75000[0m[0m
+[2026-02-05 00:34:34] MINER: [1;32m * [0m[1;37mconnection time  [0m[1;36m295s[0m[0m
+[2026-02-05 00:34:34] MINER: [2026-02-05 00:34:31[1;30m.773[0m] [1;37m[1;33mno results yet[0m
+[2026-02-05 00:34:34] MINER: [2026-02-05 00:34:31[1;30m.773[0m] [1;37m[1;33mno results yet[0m
+[2026-02-05 00:34:34] MINER: [1;37m|    CPU # | AFFINITY | 10s H/s | 60s H/s | 15m H/s |[0m
+[2026-02-05 00:34:34] MINER: |        0 |       -1 |    0.00 |    0.02 |     n/a |[0m
+[2026-02-05 00:34:34] MINER: [1;37m|        - |        - |    0.00 |    0.02 |     n/a |[0m
+[2026-02-05 00:34:34] MINER: [2026-02-05 00:34:31[1;30m.773[0m] [45;1m[1;37m miner   [0m [1;37mspeed[0m 10s/60s/15m [1;36m0.00[0m[0;36m 0.02 n/a [0m[1;36mH/s[0m max [1;36m0.11 H/s[0m[0m
+[2026-02-05 00:34:34] MINER: [1;37m|    CPU # | AFFINITY | 10s H/s | 60s H/s | 15m H/s |[0m
+[2026-02-05 00:34:34] MINER: |        0 |       -1 |    0.00 |    0.02 |     n/a |[0m
+[2026-02-05 00:34:34] MINER: [1;37m|        - |        - |    0.00 |    0.02 |     n/a |[0m
+[2026-02-05 00:34:34] MINER: [2026-02-05 00:34:31[1;30m.773[0m] [45;1m[1;37m miner   [0m [1;37mspeed[0m 10s/60s/15m [1;36m0.00[0m[0;36m 0.02 n/a [0m[1;36mH/s[0m max [1;36m0.11 H/s[0m[0m
+[2026-02-05 00:34:35] MINER: [2026-02-05 00:34:35[1;30m.698[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (88 tx)[0m
+[2026-02-05 00:34:45] MINER: [2026-02-05 00:34:45[1;30m.862[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (92 tx)[0m
+[2026-02-05 00:34:56] MINER: [2026-02-05 00:34:56[1;30m.206[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603071[0m (96 tx)[0m
+[2026-02-05 00:35:00] MINER: [2026-02-05 00:35:00[1;30m.591[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603072[0m (2 tx)[0m
+[2026-02-05 00:35:05] MINER: [2026-02-05 00:35:05[1;30m.814[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603073[0m (1 tx)[0m
+[2026-02-05 00:35:15] MINER: [2026-02-05 00:35:15[1;30m.776[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603073[0m (3 tx)[0m
+[2026-02-05 00:35:23] MINER: [2026-02-05 00:35:23[1;30m.245[0m] [45;1m[1;37m miner   [0m [1;37mspeed[0m 10s/60s/15m [1;36m0.00[0m[0;36m 0.00 n/a [0m[1;36mH/s[0m max [1;36m0.11 H/s[0m[0m
+[2026-02-05 00:35:25] MINER: [2026-02-05 00:35:25[1;30m.824[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603073[0m (7 tx)[0m
+[2026-02-05 00:35:35] MINER: [2026-02-05 00:35:35[1;30m.897[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603074[0m (7 tx)[0m
+[2026-02-05 00:35:44] MINER: [2026-02-05 00:35:44[1;30m.691[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603075[0m (4 tx)[0m
+[2026-02-05 00:35:55] MINER: [2026-02-05 00:35:55[1;30m.088[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603075[0m (9 tx)[0m
+[2026-02-05 00:36:05] MINER: [2026-02-05 00:36:05[1;30m.207[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603075[0m (11 tx)[0m
+[2026-02-05 00:36:15] MINER: [2026-02-05 00:36:15[1;30m.293[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603075[0m (16 tx)[0m
+[2026-02-05 00:36:23] MINER: [2026-02-05 00:36:23[1;30m.274[0m] [45;1m[1;37m miner   [0m [1;37mspeed[0m 10s/60s/15m [1;36m0.00[0m[0;36m 0.00 n/a [0m[1;36mH/s[0m max [1;36m0.11 H/s[0m[0m
+[2026-02-05 00:36:25] MINER: [2026-02-05 00:36:25[1;30m.402[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603075[0m (18 tx)[0m
+[2026-02-05 00:36:35] MINER: [2026-02-05 00:36:35[1;30m.393[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603075[0m (21 tx)[0m
+[2026-02-05 00:36:45] MINER: [2026-02-05 00:36:45[1;30m.672[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603075[0m (24 tx)[0m
+[2026-02-05 00:36:54] MINER: [2026-02-05 00:36:54[1;30m.701[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603076[0m (3 tx)[0m
+[2026-02-05 00:37:04] MINER: [2026-02-05 00:37:04[1;30m.851[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603076[0m (11 tx)[0m
+[2026-02-05 00:37:09] MINER: [2026-02-05 00:37:09[1;30m.782[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603076[0m (13 tx)[0m
+[2026-02-05 00:37:10] MINER: [2026-02-05 00:37:10[1;30m.072[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603076[0m (14 tx)[0m
+[2026-02-05 00:37:14] MINER: [2026-02-05 00:37:14[1;30m.929[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603076[0m (16 tx)[0m
+[2026-02-05 00:37:18] MINER: [2026-02-05 00:37:18[1;30m.251[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603076[0m (17 tx)[0m
+[2026-02-05 00:37:19] MINER: [2026-02-05 00:37:19[1;30m.830[0m] [44;1m[1;37m net     [0m [1;35mnew job[0m from [1;37mpool.supportxmr.com:3333[0m diff [1;37m75000[0m algo [1;37mrx/0[0m height [1;37m3603076[0m (19 tx)[0m
